@@ -1,6 +1,6 @@
 -- // Variables
 getgenv().VentawayLoaded = true
-local VentawayLogo, GetTime = game:HttpGet("https://ibb.co/SPXcKsZ"), os.clock()
+local VentawayLogo, GetTime = game:HttpGet("https://i.ibb.co/Cz56n1S/ventaway.png"), os.clock()
 
 local NoclipMacro, Macro, PanicMode, TriggerBot, Desync, FreezePos, FrameSkip, FakeSpike = false, false, false, false, false, false, false, false
 local ClosestPointCF, ToolConnection, SilentTarget, AimTarget, ForceLock, keybindTime, LastStutter = nil, nil, nil, nil, nil, 0, tick()
