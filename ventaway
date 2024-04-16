@@ -48,7 +48,7 @@ if Ventaway.Options.Intro then
     Image.Parent = Gui
     Image.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     Image.BackgroundTransparency = 1.000
-    Image.Position = UDim2.new(0.405, 0, 0.405, 0)
+    Image.Position = UDim2.new(0.450, 0, 0.405, 0)
     Image.Size = UDim2.new(0.17, 0, 0.27, 0)
     Image.ImageTransparency = 1
     Image.Image = "rbxassetid://17169065707"
